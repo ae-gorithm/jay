@@ -13,7 +13,7 @@ public class Main {
             arr[i] = Integer.parseInt(st.nextToken()) * 2;
         }
         Arrays.sort(arr);
-        int m = arr[n - 1] + 2;
+        int m = arr[n - 1] + 1;
         boolean[] pipes = new boolean[m + 1];
         for (int i = 0; i < n; i++) {
             pipes[arr[i] - 1] = pipes[arr[i]] = pipes[arr[i] + 1] = true;
