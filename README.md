@@ -8,3 +8,6 @@
 
 ### Week10: 알고리즘 기초 문제 10
 25.05.30~25.06.05 ([상세 내역 링크](https://github.com/ae-gorithm/jay/tree/main/week10))
+
+### Week10: 알고리즘 기초 문제 11
+25.06.06~25.06.12 ([상세 내역 링크](https://github.com/ae-gorithm/jay/tree/main/week11))
